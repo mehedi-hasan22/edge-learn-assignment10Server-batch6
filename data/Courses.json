@@ -5,7 +5,6 @@
         "rating": 4.6,
         "price": "48$",
         "title": "Python Programming",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
         "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
         "duration": "6 Months",
         "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
@@ -13,56 +12,51 @@
     {
         "_id": "h57f74g7dg3hu485h8hg587gfh47fh58",
         "category_id": "02",
-        "rating": 4.6,
-        "price": "48$",
-        "title": "Python Programming",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
-        "duration": "6 Months",
-        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+        "rating": 4.9,
+        "price": "30$",
+        "title": "Javascript",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "duration": "2 Months",
+        "details": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)."
     },
     {
         "_id": "u79bf57g7rb8ut9b7bu485bf48f65b5hf48",
         "category_id": "03",
-        "rating": 4.6,
-        "price": "48$",
-        "title": "Python Programming",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
-        "duration": "6 Months",
-        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+        "rating": 4.8,
+        "price": "58$",
+        "title": "React JS",
+        "image_url": "https://codersera.com/blog/wp-content/uploads/2019/12/Learn-Reactjs.jpeg",
+        "duration": "5 Months",
+        "details": "React was created by Jordan Walke, a software engineer at Facebook, who released an early prototype of React called FaxJS. He was influenced by XHP, an HTML component library for PHP. It was first deployed on Facebook's News Feed in 2011 and later on Instagram in 2012.[36] It was open-sourced at JSConf US in May 2013."
     },
     {
         "_id": "n55h8fh4j8574bf4gf4jh4fh858hg85dh485",
         "category_id": "04",
-        "rating": 4.6,
-        "price": "48$",
-        "title": "Python Programming",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
-        "duration": "6 Months",
-        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+        "rating": 3.9,
+        "price": "18$",
+        "title": "Express JS",
+        "image_url": "https://expressjs.com/images/express-facebook-share.png",
+        "duration": "1 Months",
+        "details": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications."
     },
     {
         "_id": "n9fb4ub9fy55h48h58h8fhj8dj4jf9h8485u89",
         "category_id": "05",
-        "rating": 4.6,
-        "price": "48$",
-        "title": "Python Programming",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
-        "duration": "6 Months",
-        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+        "rating": 4.9,
+        "price": "68$",
+        "title": "C Programming",
+        "image_url": "https://contentstatic.techgig.com/photo/90325682.cms",
+        "duration": "5 Months",
+        "details": "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs."
     },
     {
         "_id": "uub57nu6f748eh7fh5th8hg5yr58hr8495h5ew3",
         "category_id": "06",
-        "rating": 4.6,
-        "price": "48$",
-        "title": "Python Programming",
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
-        "duration": "6 Months",
-        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+        "rating": 4.0,
+        "price": "50$",
+        "title": "Ethical Hacking",
+        "image_url": "https://img.freepik.com/premium-vector/ethical-hacker-isolated-cartoon-vector-illustrations_107173-21543.jpg?w=2000",
+        "duration": "7 Months",
+        "details": "Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers."
     }
 ]
