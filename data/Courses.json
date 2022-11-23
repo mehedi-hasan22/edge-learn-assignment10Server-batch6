@@ -1,0 +1,68 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": 4.6,
+        "price": "48$",
+        "title": "Python Programming",
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
+        "duration": "6 Months",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+    },
+    {
+        "_id": "h57f74g7dg3hu485h8hg587gfh47fh58",
+        "category_id": "02",
+        "rating": 4.6,
+        "price": "48$",
+        "title": "Python Programming",
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
+        "duration": "6 Months",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+    },
+    {
+        "_id": "u79bf57g7rb8ut9b7bu485bf48f65b5hf48",
+        "category_id": "03",
+        "rating": 4.6,
+        "price": "48$",
+        "title": "Python Programming",
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
+        "duration": "6 Months",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+    },
+    {
+        "_id": "n55h8fh4j8574bf4gf4jh4fh858hg85dh485",
+        "category_id": "04",
+        "rating": 4.6,
+        "price": "48$",
+        "title": "Python Programming",
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
+        "duration": "6 Months",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+    },
+    {
+        "_id": "n9fb4ub9fy55h48h58h8fhj8dj4jf9h8485u89",
+        "category_id": "05",
+        "rating": 4.6,
+        "price": "48$",
+        "title": "Python Programming",
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
+        "duration": "6 Months",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+    },
+    {
+        "_id": "uub57nu6f748eh7fh5th8hg5yr58hr8495h5ew3",
+        "category_id": "06",
+        "rating": 4.6,
+        "price": "48$",
+        "title": "Python Programming",
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://uploads.sololearn.com/uploads/courses/1073.png",
+        "duration": "6 Months",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980"
+    }
+]
